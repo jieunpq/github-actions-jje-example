@@ -3,13 +3,13 @@ name: dev_2_이벤트_종류-2025-06-10
 # on:
 #   push:
 #     branches:
-#       - dev_2_이벤트_종류-2025-06-10
+#       - dev_2-이벤트_종류-2025-06-10
 on:
   push:
     paths:
       - '**.md'
     # branches:
-    #    - dev_2_이벤트_종류-2025-06-10
+    #    - dev_2-이벤트_종류-2025-06-10
 
 jobs:
   dev-02-example-actions:
