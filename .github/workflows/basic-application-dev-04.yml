@@ -3,7 +3,7 @@ name: Run hello.py on push
 on:
   push:
     branches:
-      - dev_4_기본_어플리케이션-2025-06-13
+      - dev_04_기본_어플리케이션-2025-06-13
 
 jobs:
   run-python-script:
